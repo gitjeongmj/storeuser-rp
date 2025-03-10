@@ -1,0 +1,13 @@
+package hiyam.storeuser;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class StoreuserApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(StoreuserApplication.class, args);
+	}
+
+}
